@@ -2,10 +2,10 @@
 # A BMI calcultor 
 The cloned UI
 <div>
-<p float="left">
+<p float="centre">
 
 <img src="https://github.com/WahomeKezia/Assets/blob/main/BMICalcPageOne.png" width="300" />
-<img src="https://github.com/WahomeKezia/Assets/blob/main/BMIpageTwo.png" width="250" />
+<img src="https://github.com/WahomeKezia/Assets/blob/main/BMIpageTwo.png" width="270" />
  
 </div>
 In this project I will implement Flutter UI Components: Card Data Views ,Color themes and Navigation 
