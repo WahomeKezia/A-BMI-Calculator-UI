@@ -5,7 +5,7 @@ The cloned UI
 <p float="left">
 
 <img src="https://github.com/WahomeKezia/Assets/blob/main/BMICalcPageOne.png" width="300" />
-<img src="https://github.com/WahomeKezia/Assets/blob/main/BMIpageTwo.png" width="300" />
+<img src="https://github.com/WahomeKezia/Assets/blob/main/BMIpageTwo.png" width="250" />
  
 </div>
 In this project I will implement Flutter UI Components: Card Data Views ,Color themes and Navigation 
